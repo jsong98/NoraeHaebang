@@ -1,8 +1,6 @@
 # 노래 해방 🎵
 ![메인페이지](https://github.com/jsong98/NoraeHaebang/assets/79959903/b7eb29cc-d0a1-4c3c-9fb6-ffa978b32854)
 
-![homePage](/uploads/82b358dc3a816ca1cf7360edab0021e2/homePage.png)
-
 <br />
 
 # 프로젝트 소개
@@ -160,42 +158,48 @@
 
 <h3><< 노래방 만들기 >><h3>
 
-![방만들기](/uploads/252045b2c262008fcc819592730c5e4e/방만들기.gif)
+![노래방만들기](https://github.com/jsong98/NoraeHaebang/assets/79959903/40b0c18e-2838-41f0-9179-a4b6cebe76f6)
+
 
 <br />
 <br />
 
 <h3><< 노래방 입력설정 >><h3>
+    
+![노래방입력설정](https://github.com/jsong98/NoraeHaebang/assets/79959903/85c864ff-2493-45a8-8140-239412d9cf7c)
 
-![입력설정](/uploads/75ab66006646f525ceea73307cf24d16/입력설정.gif)
 
 <br />
 <br />
 
 <h3><< 노래방 노래예약 >><h3>
 
-![노래_예약](/uploads/31e1368a53bc5683af3ff418a26a30e7/노래_예약.gif)
+![노래방노래예약](https://github.com/jsong98/NoraeHaebang/assets/79959903/e6723ea8-71e3-4fa8-957e-941d7b02af15)
+
 
 <br />
 <br />
 
 <h3><< 노래방 채팅 >><h3>
 
-![노래방_채팅_기능](/uploads/16d184a9c4001a7a4ac4c1ac74b7d336/노래방_채팅_기능.gif)
+![노래방채팅](https://github.com/jsong98/NoraeHaebang/assets/79959903/45d231ab-d1f5-475d-a17d-a0fd47d4c9a6)
+
 
 <br />
 <br />
 
 <h3><< 노래방 일반 모드 >><h3>
 
-![전체_노래방](/uploads/66185a3047b5624351a02682cf6db95a/전체_노래방.gif)
+![노래방일반모드](https://github.com/jsong98/NoraeHaebang/assets/79959903/25d080c9-6247-48ff-8c12-55860f5ceaa8)
+
 
 <br />
 <br />
 
 <h3><< 노래방 퍼펙트 스코어 >><h3>
 
-<img src="/uploads/c4848e29b911cff24a9dc0d92759c570/perfect-score.png" width="800" height="400">
+![노래방퍼펙트스코어](https://github.com/jsong98/NoraeHaebang/assets/79959903/f28cc924-c49e-4b54-aa50-76f8cbe9d78f)
+
 
 <br />
 <br />
@@ -204,13 +208,14 @@
 
 <h3><< 피드리스트 및 피드 상세 >><h3>
 
-![피드_기능](/uploads/03378246ff12bb438886ef40d4c854af/피드_기능.gif)
+![피드리스트및상세](https://github.com/jsong98/NoraeHaebang/assets/79959903/d63fc713-9359-4f8d-bfa3-746aee627fca)
+
 <br />
 <br />
 
 <h3><< 피드 업로드 >><h3>
 
-![피드_업로드](/uploads/31d8ac38fa55abcbd461db9eadfafc56/피드_업로드.gif)
+![피드업로드](https://github.com/jsong98/NoraeHaebang/assets/79959903/e8b8770c-08a1-453b-b5e3-7d730833b2dd)
 
 
 <br />
@@ -218,7 +223,8 @@
 
 <h3><< 채팅 >><h3>
 
-![채팅_기능](/uploads/c07fac176fabeb2fe6fc3ef930604902/채팅_기능.gif)
+![채팅](https://github.com/jsong98/NoraeHaebang/assets/79959903/030209d5-48a8-4144-b22d-44368c830c2a)
+
 
 <br />
 <br />
@@ -226,7 +232,8 @@
 
 <h3><< 친구 목록 >><h3>
 
-![친구목록](/uploads/02e693754b4e9f5218e64a01ecac9333/친구목록.gif)
+![친구목록](https://github.com/jsong98/NoraeHaebang/assets/79959903/172ee245-78aa-4840-a4fc-09dffd487aa8)
+
 
 <br />
 <br />
