@@ -1,4 +1,5 @@
 # 노래 해방 🎵
+![메인페이지](https://github.com/jsong98/NoraeHaebang/assets/79959903/b7eb29cc-d0a1-4c3c-9fb6-ffa978b32854)
 
 ![homePage](/uploads/82b358dc3a816ca1cf7360edab0021e2/homePage.png)
 
