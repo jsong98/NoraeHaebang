@@ -82,7 +82,7 @@
 
 ## 링크
 
-[![logo1-removebg-preview](/uploads/62539bb6b1639ad6fda02617b81db772/logo1-removebg-preview.png)](https://i10a705.p.ssafy.io/)
+[![logo](https://github.com/jsong98/NoraeHaebang/assets/79959903/8bf4fa0c-7b8e-4724-a462-815c66b9e7d8)](https://i10a705.p.ssafy.io/)
 
 [![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/d3b9636405c8451499659f8d8b4ba876)
 
@@ -240,7 +240,8 @@
 
 # 아키넥처 구성도
 
-![a705.drawio](/uploads/2f07ef3d0808a1239f11647ffaeb4f9a/a705.drawio.png)
+![아키텍처](https://github.com/jsong98/NoraeHaebang/assets/79959903/d8ecf23e-bb00-4528-835e-55c1882b3d84)
+
 
 <br />
 
