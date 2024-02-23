@@ -1,0 +1,13 @@
+CREATE DEFINER=`root`@`%` PROCEDURE `GetCommentsByFeedIdWithPagination`(
+    IN feedIdParam INT,
+    IN startIndexParam INT,
+    IN pageSizeParam INT
+)
+BEGIN
+    SELECT *
+    FROM comment
+    WHERE feed_id = feedIdParam
+      AND LOWER(is_deleted) NOT LIKE 'o%'
+    ORDER BY comment_id
+    LIMIT startIndexParam, pageSizeParam;
+END
